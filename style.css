@@ -504,7 +504,7 @@ footer .copyright{
   text-align: center;
 }
 
-@media (max-width:799px) {
+@media (max-width:1028px) {
   .section-p1{
     padding: 40px 40px;
   }
